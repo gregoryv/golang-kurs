@@ -4,7 +4,7 @@ Om det fanns en helg kurs, skulle du eller ditt barn(14+) vara intresserat?
 Kursen vänder sig till nybörjare med ett intresse för datorer och programmering.
 
 
-## Fredag
+## Fredag 
 
 + Programmering generellt, vad innebär det
 + Kompilering
@@ -34,3 +34,5 @@ Lära sig förstå koden
 + Verktygen runtomkring, testning och dokumentation
 + Ditt tredje program
 
+
+2 timmar vid varje tillfälle.
