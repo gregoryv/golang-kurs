@@ -1,23 +1,25 @@
 # Programmeringskurs i Flyinge!
 
-Om det fanns en helgkurs, skulle du eller ditt barn (14+) vara intresserat?
-Kursen vänder sig till nybörjare med ett intresse för datorer och programmering.
+## Agenda
 
-## Fredag 
+Agendan är rörlig, målet är att få programmera större delen
+av tiden. Denna sidan innehåller all kursinformation, ni kan med fördel
+läsa igenom exemplen.
+
+## Dag 1
 
 + Programmering generellt, vad innebär det
 + Vi slänger oss direkt in i programmeringen
 
-## Lördag
+## Dag 2
 
 + Programmeringsspråket GO och dess syntax
 + Ett programs beståndsdelar
 
-## Söndag
+## Dag 3
 
 + Verktygen runtomkring
 + Testning 
-+ Dokumentation
 
 
-2 timmar vid varje tillfälle.
+2-3 timmar vid varje tillfälle.
