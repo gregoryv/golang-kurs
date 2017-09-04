@@ -9,7 +9,7 @@ läsa igenom exemplen.
 ## Dag 1
 
 + Programmering generellt, vad innebär det
-+ Vi slänger oss direkt in i programmeringen
++ Vi slänger oss direkt in i programmeringen [exempel1](https://github.com/gregoryv/golang-kurs/tree/master/exempel1)
 
 ## Dag 2
 
