@@ -22,6 +22,8 @@ Kör programmet genom att i terminalen skriva
 - `terminalen`, programmet som vi använder för att skicka kommandon till datorn
 - `källkoden` som skrivs i en textfil, vi döpte denna till `main.go`
 - kompilatorn `go`, verktyget som omvandlar källkoden till något som datorn förstår
-
+- `main` huvud funktionen i varje program
+- funktionsanrop till `print`
+- funktioner kan ta ett eller flera argument `"Hello, World!"`
 
 
