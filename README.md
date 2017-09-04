@@ -9,17 +9,15 @@ läsa igenom exemplen.
 ## Dag 1
 
 + Programmering generellt, vad innebär det
-+ Vi slänger oss direkt in i programmeringen [exempel1](https://github.com/gregoryv/golang-kurs/tree/master/exempel1)
++ Vi slänger oss direkt in i programmeringen
 
 ## Dag 2
 
-+ Programmeringsspråket GO och dess syntax
-+ Ett programs beståndsdelar
++ Vi fortsätter gå igenom exemplen och lär oss lite från varje
 
 ## Dag 3
 
-+ Verktygen runtomkring
-+ Testning 
++ Utmaning, skriva ett eget litet program/spel
 
 
 2-3 timmar vid varje tillfälle.
