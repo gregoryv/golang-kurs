@@ -9,7 +9,10 @@ läsa igenom matrialet i förväg.
 
 ## Förberedelser innan kursen
 
-Om ni har en laptop förbered den genom att installera https://golang.org/dl/ och en texteditor, t.ex. https://code.visualstudio.com/
+Om ni har en laptop förbered den genom att installera 
+
+- själva språket och dess verktyg från https://golang.org/dl/
+- en texteditor, t.ex. https://code.visualstudio.com/
 
 ## Dag 1
 
