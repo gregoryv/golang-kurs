@@ -4,7 +4,12 @@
 
 Agendan är rörlig, målet är att få programmera större delen
 av tiden. Denna sidan innehåller all kursinformation, ni kan med fördel
-läsa igenom exemplen.
+läsa igenom matrialet i förväg.
+
+
+## Förberedelser innan kursen
+
+Om ni har en laptop förbered den genom att installera https://golang.org/dl/ och en texteditor, t.ex. https://code.visualstudio.com/
 
 ## Dag 1
 
@@ -13,11 +18,12 @@ läsa igenom exemplen.
 
 ## Dag 2
 
-+ Vi fortsätter gå igenom exemplen och lär oss lite från varje
++ Vi fortsätter gå igenom exempel och lär oss något nytt från varje
 
 ## Dag 3
 
-+ Utmaning, skriva ett eget litet program/spel
++ Utmaning, skriva ett eget program/spel
 
 
 2-3 timmar vid varje tillfälle.
+
