@@ -2,11 +2,11 @@
 
 ## Agenda
 
-Agendan är rörlig, målet är att få programmera större delen
-av tiden. Denna sidan innehåller all kursinformation, ni kan med fördel
+Agendan är rörlig, målet är att få programmera större delen av
+tiden. Denna sidan innehåller all kursinformation, ni kan med fördel
 läsa igenom matrialet i förväg.
 
-## Logistik
+## Var, när och hur?
 
 Lokal hos Pax Brygghus, som sponsrar med en riktigt billig hyra
 
