@@ -6,6 +6,17 @@ Agendan är rörlig, målet är att få programmera större delen
 av tiden. Denna sidan innehåller all kursinformation, ni kan med fördel
 läsa igenom matrialet i förväg.
 
+## Logistik
+
+Lokal hos Pax Brygghus, som sponsrar med en riktigt billig hyra
+
+- Fredag 29/9 18-21
+- Lördag 30/9 13-16
+- Söndag 1/9 10-12
+
+250kr / person, vid minst 10 deltagare annars får vi ta en diskussion.
+Swisha till 0708-131416 senast 17/9
+
 
 ## Förberedelser innan kursen
 
