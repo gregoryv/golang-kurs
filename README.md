@@ -2,9 +2,9 @@
 
 ## Agenda
 
-Agendan är rörlig, målet är att få programmera större delen av
-tiden. Denna sidan innehåller all kursinformation, ni kan med fördel
-läsa igenom matrialet i förväg.
+Målet är att få programmera större delen av tiden. Denna sidan
+innehåller all kursinformation. Ni kan med fördel läsa igenom
+exemplen i förväg.
 
 ## Var, när och hur?
 
