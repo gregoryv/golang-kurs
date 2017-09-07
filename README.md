@@ -17,6 +17,8 @@ Lokal hos Pax Brygghus, som sponsrar med en riktigt billig hyra
 250kr / person, vid minst 10 deltagare annars får vi ta en diskussion.
 Swisha till 0708-131416 senast 17/9
 
+I priset ingår lokal och utbildning, har lagt tiderna efter/före lunch och middag så
+vi inte behöver ta höjd för mat. Lite kaffe och saft försöker jag ordna.
 
 ## Förberedelser innan kursen
 
