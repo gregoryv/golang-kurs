@@ -37,4 +37,4 @@ Kör programmet genom att i terminalen skriva
 Ditt program pratar med operativsystemet som i sin tur använder drivrutiner för 
 att prata med olika hårdvarukomponenter.
 
-![Översikt](./overview.png)
+![Översikt](overview.png)
