@@ -11,13 +11,13 @@ Nyckelorden `if` och `else`.
 	import "fmt"
 	
 	func main() {
-	    fmt.Print("Hello ")
-		if true {
-			fmt.Println("Kalle!")
-		} else {
-			fmt.Println("Lisa!")
-		}
-	}
+        fmt.Print("Hello ")
+        if true {
+            fmt.Println("Kalle!")
+        } else {
+            fmt.Println("Lisa!")
+        }
+    }
 	
 Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i terminalen skriva
 
@@ -29,6 +29,7 @@ Vad tror du kommer hända?
 
 - `if` börjar ett uttryck som skall utvärderas till sant eller falskt
 - `else` kan användas som en alternativ väg
+- `true` och `false` är boolska värden
 
 ## Uppgift
 
