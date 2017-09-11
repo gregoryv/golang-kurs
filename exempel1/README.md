@@ -37,10 +37,4 @@ Kör programmet genom att i terminalen skriva
 Ditt program pratar med operativsystemet som i sin tur använder drivrutiner för 
 att prata med olika hårdvarukomponenter.
 
-<table style="text-align: center">
- <tr><td style="background-color: lightblue; color: blue; font-size: 2em">DITT PROGRAM</td></tr>
- <tr><td style="background-color: lightblue; border-top: 1px solid #000">Operativsystem<br>Drivrutiner</td></tr> 
- <tr><td style="border-top: 1px solid #000">Processor | Ramminne</td></tr> 
- <tr><td style="border-top: 1px solid #000">Hårddisk och grafikkort</td></tr>
- <tr><td style="border-top: 1px solid #000">Tangentbord | mus | skärm</td></tr> 
-</table>
+![Översikt](./overview.png)
