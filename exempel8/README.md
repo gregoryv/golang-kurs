@@ -31,3 +31,4 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
   
 1. Vad gör modulus operatorn?
 
+[Exempel 9](../exempel9/README.md#exempel-9)
