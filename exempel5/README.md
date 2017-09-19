@@ -1,4 +1,4 @@
-# Example 5
+# Exempel 5
 
 Felsökning, kompilatorn är din vän.
 
