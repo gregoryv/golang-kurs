@@ -35,3 +35,4 @@ Vad tror du kommer hända?
 
 - Ändra uttrycket i `if`-satsen till falskt, vad kommer skrivas ut?
 
+[Exempel 8](../exempel8/README.md)

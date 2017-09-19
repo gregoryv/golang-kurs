@@ -26,3 +26,5 @@ Vad hände? varför skrev det inte ut `Hello, World!`?
 
 - fixa felet
 - gör ett medvetet fel i koden som att t.ex. ta bort ett av `"`, spara och försök köra programmet igen
+
+[Exempel 6](../exempel6/README.md)
