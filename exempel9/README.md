@@ -9,12 +9,12 @@ Funktioner med returvärden.
 	import "fmt"
 	
 	func sum(a, b int) int {
-		return a + b
+	    return a + b
 	}
 	
 	func main() {
-		answer := sum(1,2)
-		fmt.Println(answer)
+	    answer := sum(1,2)
+	    fmt.Println(answer)
 	}
 	
 Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i terminalen skriva
