@@ -3,8 +3,8 @@
 ## Agenda
 
 Målet är att få programmera större delen av tiden. Denna sidan
-innehåller all kursinformation. Ni kan med fördel läsa igenom
-exemplen i förväg.
+innehåller all kursinformation. Ni kan med fördel läsa igenom exemplen
+i förväg.
 
 ## Var, när och hur?
 
@@ -17,8 +17,9 @@ Lokal hos Pax Brygghus, som sponsrar med en riktigt billig hyra
 250kr / person, vid minst 10 deltagare annars får vi ta en diskussion.
 Swisha till 0708-131416 senast 17/9
 
-I priset ingår lokal och utbildning. La tiderna före och efter lunch och middag så
-vi inte behöver ta höjd för mat. Lite kaffe och saft kan jag ordna.
+I priset ingår lokal och utbildning. Tiderna ligger före och efter lunch
+och middag så vi inte behöver ta höjd för mat. Lite kaffe och saft kan
+jag ordna.
 
 ## Förberedelser innan kursen
 
@@ -39,7 +40,4 @@ Om ni har en laptop förbered den genom att installera
 ## Dag 3
 
 + Utmaning, skriva ett eget program/spel
-
-
-2-3 timmar vid varje tillfälle.
 
