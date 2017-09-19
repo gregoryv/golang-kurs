@@ -21,13 +21,13 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 	
 ## Lärdom
 
-- `variabel` är en plats i minnet som kan ha ett värde av en viss typ
-- `var` nyckelordet används för att deklarera en ny variabel
-- man kan även hoppa över var deklarationen om man direkt sätter ett värde, då använder man `:=` 
+1. `variabel` är en plats i minnet som kan ha ett värde av en viss typ
+1. `var` nyckelordet används för att deklarera en ny variabel
+1. man kan även hoppa över var deklarationen om man direkt sätter ett värde, då använder man `:=` 
 
 ## Uppgift
 
-- Lägg till en variabel `c` med värde `9`
-- Skriv ut summan av `a+b+c`
+1. Lägg till en variabel `c` med värde `9`
+1. Skriv ut summan av `a+b+c`
 
 [Exempel 5](../exempel5/README.md#exempel-5)

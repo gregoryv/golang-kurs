@@ -20,9 +20,9 @@ Kör programmet genom att i terminalen skriva
 	
 ## Lärdom
 
-- `import` används för att återanvända kod i andra `paket`
-- `fmt.Println` funktionsanrop till andra paket
-- publika funktioner i paket börjar med Versaler, privata med gemener
-- vilka paket finns? det finns massor, https://godoc.org/-/go är en bra början
+1. `import` används för att återanvända kod i andra `paket`
+1. `fmt.Println` funktionsanrop till andra paket
+1. publika funktioner i paket börjar med Versaler, privata med gemener
+1. vilka paket finns? det finns massor, https://godoc.org/-/go är en bra början
 	
 [Exempel 3](../exempel3/README.md#exempel-3)

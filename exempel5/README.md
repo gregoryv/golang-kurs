@@ -20,11 +20,11 @@ Vad hände? varför skrev det inte ut `Hello, World!`?
 
 ## Lärdom
 
-- Kompilatorn berättar var felet ligger dvs. vilken fil och rad samt att den säger vad som är fel
+1. Kompilatorn berättar var felet ligger dvs. vilken fil och rad samt att den säger vad som är fel
 
 ## Uppgift
 
-- fixa felet
-- gör ett medvetet fel i koden som att t.ex. ta bort ett av `"`, spara och försök köra programmet igen
+1. fixa felet
+1. gör ett medvetet fel i koden som att t.ex. ta bort ett av `"`, spara och försök köra programmet igen
 
 [Exempel 6](../exempel6/README.md#exempel-6)

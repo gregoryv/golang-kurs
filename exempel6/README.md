@@ -25,14 +25,14 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 	
 ## Lärdom
 
-- `fmt.Printf` används när man vill formatera utskrift av olika värden
-- `%r` i första argumentet betyder, ersätt med datatyp och värde
-- `\n` betyder ny rad
-- typen för en variabel skrivs efter variabel deklarationen och före eventuell tilldelning
+1. `fmt.Printf` används när man vill formatera utskrift av olika värden
+1. `%r` i första argumentet betyder, ersätt med datatyp och värde
+1. `\n` betyder ny rad
+1. typen för en variabel skrivs efter variabel deklarationen och före eventuell tilldelning
 
 
 ## Uppgift
 
-- Deklarera variabler för de övriga värdena som b, c, d och e med rätt datatyp och skriv ut dessa på samma sätt
+1. Deklarera variabler för de övriga värdena som b, c, d och e med rätt datatyp och skriv ut dessa på samma sätt
 
 [Exempel 7](../exempel7/README.md#exempel-7)

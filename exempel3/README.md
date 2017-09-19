@@ -20,8 +20,8 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 	
 ## Lärdom
 
-- `display` är en egen funktion som tar ett argument `something`
-- `string` datatypen är en sträng, kompilatorn hjälper dig att skilja på olika datatyper.
-- `datatyper` kan vara sträng, tecken, siffra, decimaltal osv.
+1. `display` är en egen funktion som tar ett argument `something`
+1. `string` datatypen är en sträng, kompilatorn hjälper dig att skilja på olika datatyper.
+1. `datatyper` kan vara sträng, tecken, siffra, decimaltal osv.
 
 [Exempel 4](../exempel4/README.md#exempel-4)

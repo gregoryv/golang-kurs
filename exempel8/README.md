@@ -19,15 +19,15 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 	
 ## Lärdom
 
-- `uttryck` kan vara beräkningar av ett eller flera tal
-- `operator` används vid beräkningar, t.ex. '+-*/%'
+1. `uttryck` kan vara beräkningar av ett eller flera tal
+1. `operator` används vid beräkningar, t.ex. '+-*/%'
 
 ## Uppgift
 
-- Lägg till ett uttryck för varje operator 
+1. Lägg till ett uttryck för varje operator
   - `*` multiplikation
   - `/` division
   - `%` modulus
   
-- Vad gör modulus operatorn?
+1. Vad gör modulus operatorn?
 

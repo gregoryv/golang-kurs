@@ -27,12 +27,12 @@ Vad tror du kommer hända?
 
 ## Lärdom
 
-- `if` börjar ett uttryck som skall utvärderas till sant eller falskt
-- `else` kan användas som en alternativ väg
-- `true` och `false` är boolska värden
+1. `if` börjar ett uttryck som skall utvärderas till sant eller falskt
+1. `else` kan användas som en alternativ väg
+1. `true` och `false` är boolska värden
 
 ## Uppgift
 
-- Ändra uttrycket i `if`-satsen till falskt, vad kommer skrivas ut?
+1. Ändra uttrycket i `if`-satsen till falskt, vad kommer skrivas ut?
 
 [Exempel 8](../exempel8/README.md#exempel-8)
