@@ -30,4 +30,4 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 - Lägg till en variabel `c` med värde `9`
 - Skriv ut summan av `a+b+c`
 
-[Exempel 5](../exempel5/README.md)
+[Exempel 5](../exempel5/README.md#exempel-5)

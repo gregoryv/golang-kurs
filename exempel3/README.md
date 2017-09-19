@@ -24,4 +24,4 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 - `string` datatypen är en sträng, kompilatorn hjälper dig att skilja på olika datatyper.
 - `datatyper` kan vara sträng, tecken, siffra, decimaltal osv.
 
-[Exempel 4](../exempel4/README.md)
+[Exempel 4](../exempel4/README.md#exempel-4)

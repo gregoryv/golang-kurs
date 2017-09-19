@@ -25,4 +25,4 @@ Kör programmet genom att i terminalen skriva
 - publika funktioner i paket börjar med Versaler, privata med gemener
 - vilka paket finns? det finns massor, https://godoc.org/-/go är en bra början
 	
-[Exempel 3](../exempel3/README.md)
+[Exempel 3](../exempel3/README.md#exempel-3)

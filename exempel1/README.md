@@ -40,4 +40,4 @@ drivrutiner för att prata med olika hårdvarukomponenter.
 
 ![Översikt](overview.png)
 
-[Exempel 2](../exempel2/README.md)
+[Exempel 2](../exempel2/README.md#exempel-2)
