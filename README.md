@@ -23,10 +23,12 @@ jag ordna.
 
 ## Förberedelser innan kursen
 
-Om ni har en laptop förbered den genom att installera 
+Om ni har en laptop förbered den genom att installera
 
 - själva språket och dess verktyg från https://golang.org/dl/
 - en texteditor, t.ex. https://code.visualstudio.com/
+
+För enklare exempel går det bra att använda https://play.golang.org/
 
 ## Dag 1
 
@@ -40,4 +42,3 @@ Om ni har en laptop förbered den genom att installera
 ## Dag 3
 
 + Utmaning, skriva ett eget program/spel
-
