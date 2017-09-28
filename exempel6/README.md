@@ -11,18 +11,18 @@ Datatyper, siffror och sant eller falskt.
 	func main() {
 
 	    var a string = "hello"
-		
-	    fmt.Printf("%r\n", a)	
-		fmt.Printf("%r\n", 1)
-		fmt.Printf("%r\n", 1.0)	
-		fmt.Printf("%r\n", true)
-		fmt.Printf("%r\n", false)	
+
+        fmt.Printf("%r\n", a)
+        fmt.Printf("%r\n", 1)
+        fmt.Printf("%r\n", 1.0)
+        fmt.Printf("%r\n", true)
+        fmt.Printf("%r\n", false)
 	}
 
 Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i terminalen skriva
 
 	go run main.go
-	
+
 ## Lärdom
 
 1. `fmt.Printf` används när man vill formatera utskrift av olika värden
