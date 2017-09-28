@@ -5,26 +5,36 @@ Funktioner med returvärden.
 ## main.go
 
     package main
-	
+
 	import "fmt"
-	
+
 	func sum(a, b int) int {
 	    return a + b
 	}
-	
+
+	func order(a, b int) (int, int) {
+		if(a < b) {
+			return a, b
+		}
+		return b,a
+	}
+
 	func main() {
 	    answer := sum(1,2)
 	    fmt.Println(answer)
+		fmt.Println(order(9,4))
+		fmt.Println(order(1,11))
 	}
-	
+
 Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i terminalen skriva
 
 	go run main.go
-	
+
 ## Lärdom
 
 1. `returvärde` deklareras sist i funktions signaturen
-2. `:=` kort konstruktion för att deklarera och tilldela en variabel ett värde
+2. flera returvärden skrivs inom parenteser `()`
+3. returnering avslutar en funktion
 
 ## Uppgift
 
