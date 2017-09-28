@@ -42,7 +42,7 @@ drivrutiner för att prata med olika hårdvarukomponenter.
 
 ## Assembler
 
-När programmet i detta exemplet kompileras konverteras det i olika steg till en binär, där ett av stegen är att omvandla 'go' programmet till assembler. Ovan funktion ser ut såhär
+När programmet i detta exemplet kompileras konverteras det i olika steg till en binär. Ett av stegen är att omvandla 'go' källkoden till assembler. Ovan funktion ser ut såhär
 
     "".main t=1 size=81 args=0x0 locals=0x18
         0x0000 00000 (main.go:3)        TEXT    "".main(SB), $24-0
@@ -71,5 +71,7 @@ När programmet i detta exemplet kompileras konverteras det i olika steg till en
         0x004a 00074 (main.go:5)        NOP
 
     -- klippt här, hela programmet är egentligen större --
+
+Inget man vill skriva för hand eller hur?
 
 [Exempel 2](../exempel2/README.md#exempel-2)

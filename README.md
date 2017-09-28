@@ -41,4 +41,4 @@ För enklare exempel går det bra att använda https://play.golang.org/
 
 ## Dag 3
 
-+ Utmaning, skriva ett eget program/spel
++ Utmaning, skriva ett eget program
