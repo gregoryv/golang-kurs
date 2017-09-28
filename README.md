@@ -42,3 +42,9 @@ För enklare exempel går det bra att använda https://play.golang.org/
 ## Dag 3
 
 + Utmaning, skriva ett eget program
+
+
+Fortsätt lära dig på egen hand
+
+- [Go språkets alla delar](https://golang.org/ref/spec)
+- [Introduktion som kommer med språket](https://tour.golang.org/welcome/1)
