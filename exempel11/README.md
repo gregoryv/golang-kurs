@@ -27,6 +27,8 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 
 1. Listor av värden deklareras med hakparenteser före datatypen `[]`
 1. Listor indexeras med första index på 0
+1. Nyckelordet `for` används för att gå igenom(loop över) en sekvens av värden
+1. `range` används för att stega igenom en indexerad lista
 
 ## Uppgift
 
