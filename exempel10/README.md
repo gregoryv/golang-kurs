@@ -34,9 +34,9 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 I andra uppgiftern skall main se ut såhär
 
 	func main() {
-		i := 0
+	    i := 0
 	    numberIs(i)
-		numberIsAlso(i)
+	    numberIsAlso(i)
 	}
 
 3. Skriv om funktionerna numberIs och numberIsAlso så att dessa returnerar en sträng
@@ -44,7 +44,7 @@ I andra uppgiftern skall main se ut såhär
 I tredje uppgiften skall main se ut såhär
 
 	func main() {
-		i := 0
+	    i := 0
 	    fmt.Println(numberIs(i), " = ", numberIsAlso(i))
 	}
 
