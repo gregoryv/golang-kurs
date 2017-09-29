@@ -9,14 +9,13 @@ Listor och loopar
 	import "fmt"
 
 	func main() {
-		x := []int{0,0,0,0,0,0}
-		fmt.Println(x)
-		x[1] = 9
-		fmt.Println(x)
-		for index, value := range x {
-			fmt.Printf("%d. %d\n", index, value)
-		}
-
+	    x := []int{0,0,0,0,0,0}
+	    fmt.Println(x)
+	    x[1] = 9
+	    fmt.Println(x)
+	    for index, value := range x {
+	        fmt.Printf("%d. %d\n", index, value)
+	    }
 	}
 
 Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i terminalen skriva
@@ -38,8 +37,8 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 I andra uppgiften skall main se ut
 
     func main() {
-		numbers := []int{1,2,3,4,5}
-		even = countEven(numbers)
+	    numbers := []int{1,2,3,4,5}
+	    even = countEven(numbers)
 	    fmt.Println(numbers)
-		fmt.Printf("has %d even numbers\n", even)
+	    fmt.Printf("has %d even numbers\n", even)
 	}
