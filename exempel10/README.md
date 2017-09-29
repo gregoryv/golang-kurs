@@ -1,4 +1,4 @@
-# Exempel 9
+# Exempel 10
 
 Uttrycket `switch`
 
@@ -47,3 +47,5 @@ I tredje uppgiften skall main se ut såhär
 		i := 0
 	    fmt.Println(numberIs(i), " = ", numberIsAlso(i))
 	}
+
+[Exempel 11](../exempel9/README.md#exempel-11)
