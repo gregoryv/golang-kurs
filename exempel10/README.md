@@ -12,8 +12,8 @@ Uttrycket `switch`
 	    i := 0
 	    switch i {
             case 1: fmt.Print("one")
-			case 2: fmt.Print("two")
-			case 3, 4, 5: fmt.Print("three, four or five")
+		    case 2: fmt.Print("two")
+		    case 3, 4, 5: fmt.Print("three, four or five")
             default: fmt.Print(i, " is unknown")
 	    }
 	}
