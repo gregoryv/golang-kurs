@@ -33,8 +33,8 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 ## Lärdom
 
 1. `returvärde` deklareras sist i funktions signaturen
-2. flera returvärden skrivs inom parenteser `()`
-3. returnering avslutar en funktion
+1. flera returvärden skrivs inom parenteser `()`
+1. returnering avslutar en funktion
 
 ## Uppgift
 
