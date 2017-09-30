@@ -30,4 +30,4 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
   - `%` modulus
 1. Vad gör modulus operatorn?
 
-[Exempel 9](../exempel9/README.md#exempel-9)
+[Exempel 9](../9/README.md#-9)
