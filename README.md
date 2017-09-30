@@ -1,14 +1,8 @@
 # Programmeringskurs i Flyinge!
 
-## Agenda
-
-Målet är att få programmera större delen av tiden. Denna sidan
-innehåller all kursinformation. Ni kan med fördel läsa igenom alla exempel
-i förväg.
-
 ## Förberedelser innan kursen
 
-Om ni har en laptop förbered den genom att installera
+Förbered en laptop genom att installera
 
 - själva språket och dess verktyg från https://golang.org/dl/
 - en texteditor, t.ex. https://code.visualstudio.com/
