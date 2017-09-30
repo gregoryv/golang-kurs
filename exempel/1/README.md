@@ -1,6 +1,6 @@
 # Exempel 1
 
-Vad tror du nedan program gör?
+Ditt första program.
 
 Skriv programmet i en textfil och döp denna till `main.go`
 
