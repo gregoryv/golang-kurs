@@ -24,28 +24,24 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 
 ## Lärdom
 
-1. `switch` kan användas för att enklare skapa logiska värden när man har många möjliga vägar
+1. `switch` uttrycket använder du för att göra ett av många val
 
 ## Uppgift
 
 1. Flytta ut ovan switch uttryck till funktionen `numberIs(i int)`
-2. Skriv en ny funktion `numerIsAlso(i int)` som istället använder `if` och `else` uttrycken för att åstadkomma samma resultat som `numberIs(i int)` funktionen. Anropa båda funktionerna och jämför svaren
+2. Skriv en ny funktion `numberIsAlso(i int)` som istället använder `if` och `else` uttrycken för att åstadkomma samma resultat som `numberIs(i int)` funktionen. Anropa båda funktionerna och jämför svaren, t.ex
 
-I andra uppgiftern skall main se ut såhär
+	    func main() {
+	        i := 0
+	        numberIs(i)
+	        numberIsAlso(i)
+	    }
 
-	func main() {
-	    i := 0
-	    numberIs(i)
-	    numberIsAlso(i)
-	}
+3. Skriv om funktionerna `numberIs` och `numberIsAlso` så att dessa returnerar en sträng. Skriv main så den jämför dina svar, t.ex.
 
-3. Skriv om funktionerna numberIs och numberIsAlso så att dessa returnerar en sträng
-
-I tredje uppgiften skall main se ut såhär
-
-	func main() {
-	    i := 0
-	    fmt.Println(numberIs(i), " = ", numberIsAlso(i))
-	}
+	    func main() {
+	        i := 0
+	        fmt.Println(numberIs(i), " = ", numberIsAlso(i))
+	    }
 
 [Exempel 11](../11/README.md#exempel-11)
