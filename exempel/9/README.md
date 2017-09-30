@@ -42,4 +42,4 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 1. Vad händer om du försöker summera flyttal, t.ex. 1.5 med 42?
 1. Lägg till en funktion som räknar ut produkten av a och b, skriv ut svaret
 
-[Exempel 10](../9/README.md#-10)
+[Exempel 10](../9/README.md#exempel-10)

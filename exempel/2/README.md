@@ -25,4 +25,4 @@ Kör programmet genom att i terminalen skriva
 1. publika funktioner i paket börjar med Versaler, privata med gemener
 1. vilka paket finns? det finns massor, https://golang.org/pkg beskriver de som kommer med språket
 
-[Exempel 3](../3/README.md#-3)
+[Exempel 3](../3/README.md#exempel-3)

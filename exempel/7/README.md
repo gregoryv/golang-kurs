@@ -35,4 +35,4 @@ Vad tror du kommer hända?
 
 1. Ändra uttrycket i `if`-satsen till falskt, vad kommer skrivas ut?
 
-[Exempel 8](../8/README.md#-8)
+[Exempel 8](../8/README.md#exempel-8)

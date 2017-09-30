@@ -35,4 +35,4 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 
 1. Deklarera variabler för de övriga värdena som b, c, d och e med rätt datatyp och skriv ut dessa på samma sätt
 
-[Exempel 7](../7/README.md#-7)
+[Exempel 7](../7/README.md#exempel-7)

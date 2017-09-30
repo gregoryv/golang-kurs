@@ -48,4 +48,4 @@ I tredje uppgiften skall main se ut såhär
 	    fmt.Println(numberIs(i), " = ", numberIsAlso(i))
 	}
 
-[Exempel 11](../11/README.md#-11)
+[Exempel 11](../11/README.md#exempel-11)

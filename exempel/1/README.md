@@ -74,4 +74,4 @@ När programmet i detta exemplet kompileras konverteras det i olika steg till en
 
 Inget man vill skriva för hand eller hur?
 
-[Exempel 2](../2/README.md#-2)
+[Exempel 2](../2/README.md#exempel-2)
