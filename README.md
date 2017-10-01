@@ -1,17 +1,11 @@
 # Programmeringskurs i Flyinge!
 
-## Förberedelser inför kursen
+För exempel 1-11 går det bra att använda [https://play.golang.org](https://play.golang.org/) därefter måste
+man installera språket på sin egen dator från [https://golang.org/dl](https://golang.org/dl/)
 
-Förbered en laptop genom att installera
+## Dag 1
 
-- själva språket och dess verktyg från https://golang.org/dl/
-- en texteditor, t.ex. https://code.visualstudio.com/
-
-För enklare exempel går det bra att använda https://play.golang.org/
-
-## Dag 1 (3h)
-
-Vi går igenom programmering generellt, vad innebär det och slänger oss direkt in i exemplen
+Vi går igenom programmering generellt, vad innebär det och slänger oss direkt in i exemplen *(3 timmar)*.
 
 - [Exempel 1](./exempel/1/README.md#exempel-1) - Ditt första program
 - [Exempel 2](./exempel/2/README.md#exempel-2) - Använda andra paket
@@ -23,15 +17,16 @@ Vi går igenom programmering generellt, vad innebär det och slänger oss direkt
 - [Exempel 8](./exempel/8/README.md#exempel-8) - Uttryck och operatorer
 - [Exempel 9](./exempel/9/README.md#exempel-9) - Funktioner med returvärden
 
-## Dag 2 (3h)
+## Dag 2
 
-Repetition av dag 1 samt nedan exempel
+Repetition av dag 1 samt nedan exempel *(3 timmar)*.
 
 - [Exempel 10](./exempel/10/README.md#exempel-10) - Uttrycket `switch`
 
+
 ## Dag 3 - Söndag 1/9 10-12
 
-- [Exempel 11](./exempel/11/README.md#exempel-11) - Listor och loopar fortsättning
+- [Exempel 11](./exempel/11/README.md#exempel-11) - Listor och loopar
 - [Exempel 12](./exempel/12/README.md#exempel-12) - Interaktiva program
 - Utmaning, skriva ett eget program
 
