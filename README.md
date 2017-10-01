@@ -28,10 +28,11 @@ Vi går igenom programmering generellt, vad innebär det och slänger oss direkt
 Repetition av dag 1 samt nedan exempel
 
 - [Exempel 10](./exempel/10/README.md#exempel-10) - Uttrycket `switch`
-- [Exempel 11](./exempel/11/README.md#exempel-11) - Listor och loopar
 
 ## Dag 3 - Söndag 1/9 10-12
 
+- [Exempel 11](./exempel/11/README.md#exempel-11) - Listor och loopar fortsättning
+- [Exempel 12](./exempel/12/README.md#exempel-12) - Interaktiva program
 - Utmaning, skriva ett eget program
 
 

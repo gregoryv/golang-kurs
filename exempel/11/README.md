@@ -42,3 +42,5 @@ I andra uppgiften skall main se ut
 	    fmt.Println(numbers)
 	    fmt.Printf("has %d even numbers\n", even)
 	}
+
+[Exempel 12](../12/README.md#exempel-12)
