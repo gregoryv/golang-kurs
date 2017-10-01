@@ -9,7 +9,7 @@ Förbered en laptop genom att installera
 
 För enklare exempel går det bra att använda https://play.golang.org/
 
-## Dag 1
+## Dag 1 (3h)
 
 Vi går igenom programmering generellt, vad innebär det och slänger oss direkt in i exemplen
 
@@ -23,7 +23,7 @@ Vi går igenom programmering generellt, vad innebär det och slänger oss direkt
 - [Exempel 8](./exempel/8/README.md#exempel-8) - Uttryck och operatorer
 - [Exempel 9](./exempel/9/README.md#exempel-9) - Funktioner med returvärden
 
-## Dag 2 - Lördag 30/9 13-16
+## Dag 2 (3h)
 
 Repetition av dag 1 samt nedan exempel
 
@@ -36,7 +36,8 @@ Repetition av dag 1 samt nedan exempel
 - Utmaning, skriva ett eget program
 
 
-Fortsätt lära dig på egen hand
+## Fortsätt ditt lärande på egen hand
 
 - [Go språkets alla delar](https://golang.org/ref/spec)
+- [Standard paketen](https://golang.org/pkg/)
 - [Introduktion som kommer med språket](https://tour.golang.org/welcome/1)
