@@ -43,4 +43,6 @@ I andra uppgiften skall main se ut
 	    fmt.Printf("has %d even numbers\n", even)
 	}
 
+*[Lösningsförslag för båda uppgifterna](./solution.go)*
+
 [Exempel 12](../12/README.md#exempel-12)
