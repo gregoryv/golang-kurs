@@ -5,7 +5,9 @@ man installera språket på sin egen dator från [https://golang.org/dl](https:/
 
 ## Dag 1
 
-Vi går igenom programmering generellt, vad innebär det och slänger oss direkt in i exemplen *(3 timmar)*.
+*(3 timmar)*
+
+Vi går igenom programmering generellt, vad det innebär och slänger oss direkt in i exemplen.
 
 - [Exempel 1](./exempel/1/README.md#exempel-1) - Ditt första program
 - [Exempel 2](./exempel/2/README.md#exempel-2) - Använda andra paket
@@ -19,13 +21,17 @@ Vi går igenom programmering generellt, vad innebär det och slänger oss direkt
 
 ## Dag 2
 
-Repetition av dag 1 samt nedan exempel *(3 timmar)*.
+*(3 timmar)*
 
+- Repetition av dag 1
 - [Exempel 10](./exempel/10/README.md#exempel-10) - Uttrycket `switch`
 
 
-## Dag 3 - Söndag 1/9 10-12
+## Dag 3
 
+*(2 timmar)*
+
+- Repetition av dag 2
 - [Exempel 11](./exempel/11/README.md#exempel-11) - Listor och loopar
 - [Exempel 12](./exempel/12/README.md#exempel-12) - Interaktiva program
 - Utmaning, skriva ett eget program
