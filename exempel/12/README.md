@@ -33,4 +33,4 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
 
 ## Uppgift
 
-1. Skriv om programmet så att det frågar efter två tal a och b och sen skriver ut summan av talen. Tips, du måste konvertera den inlästa strängen till ett heltal först. Till din hjälp har du [strconv.ParseInt](https://golang.org/pkg/strconv/#ParseInt) funktionen.
+1. Skriv om programmet så att det frågar efter två tal a och b och sen skriver ut summan av talen. Tips, du måste konvertera den inlästa strängen till ett heltal först. Till din hjälp har du [strconv.ParseInt](https://golang.org/pkg/strconv/#ParseInt) funktionen. *(En lösning finns i solution.go filen ovan)*

@@ -1,4 +1,4 @@
-# Programmeringskurs i Flyinge!
+# Programmeringskurs för nybörjare
 
 För exempel 1-11 går det bra att använda [https://play.golang.org](https://play.golang.org/) därefter måste
 man installera språket på sin egen dator från [https://golang.org/dl](https://golang.org/dl/)
