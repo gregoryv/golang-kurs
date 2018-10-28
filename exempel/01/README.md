@@ -2,7 +2,7 @@
 
 Ditt första program.
 
-Skriv programmet i en textfil och döp denna till `main.go`
+Skriv programmet i en textfil och spara filen som `main.go`
 
 ## main.go
 
@@ -26,7 +26,8 @@ Kör programmet genom att i terminalen skriva
 1. `func` nyckelordet deklarerar en funktion
 1. `terminalen`, programmet som vi använder för att skicka kommandon till datorn
 1. `källkoden` som skrivs i en textfil, vi döpte denna till `main.go`
-1. kompilatorn `go`, verktyget som omvandlar källkoden till assembler som processorn förstår
+1. kompilatorn `go`, verktyget som omvandlar källkoden till assembler
+   som processorn förstår
 1. `main` huvud funktionen i varje program om den ligger i paketet `main`
 1. funktionsanrop till den inbyggda funktionen `print`
 1. funktioner kan ta ett eller flera argument `"Hello, World!"`
@@ -42,7 +43,9 @@ drivrutiner för att prata med olika hårdvarukomponenter.
 
 ## Assembler
 
-När programmet i detta exemplet kompileras konverteras det i olika steg till en binär. Ett av stegen är att omvandla 'go' källkoden till assembler. Ovan funktion ser ut såhär
+När programmet i detta exemplet kompileras konverteras det i olika
+steg till en binär. Ett av stegen är att omvandla 'go' källkoden till
+assembler. Ovan funktion ser ut såhär
 
     "".main t=1 size=81 args=0x0 locals=0x18
         0x0000 00000 (main.go:3)        TEXT    "".main(SB), $24-0
@@ -74,4 +77,4 @@ När programmet i detta exemplet kompileras konverteras det i olika steg till en
 
 Inget man vill skriva för hand eller hur?
 
-[Exempel 2](../2/README.md#exempel-2)
+[Exempel 2](../02/README.md#exempel-2)

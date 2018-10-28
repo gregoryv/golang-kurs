@@ -13,7 +13,8 @@ Uttryck och operatorer
         fmt.Print("1 - 1 = ", 1-1, "\n")
     }
 
-Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i terminalen skriva
+Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att
+i terminalen skriva
 
 	go run main.go
 
@@ -30,4 +31,4 @@ Kom ihåg att spara filen innan du fortsätter. Kör programmet genom att i term
   - `%` modulus
 1. Vad gör modulus operatorn?
 
-[Exempel 9](../9/README.md#exempel-9)
+[Exempel 9](../09/README.md#exempel-9)

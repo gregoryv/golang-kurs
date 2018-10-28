@@ -1,23 +1,26 @@
 # Programmeringskurs för nybörjare
 
-För exempel 1-11 går det bra att använda [https://play.golang.org](https://play.golang.org/) därefter måste
-man installera språket på sin egen dator från [https://golang.org/dl](https://golang.org/dl/)
+För exempel 1-11 går det bra att
+använda [https://play.golang.org](https://play.golang.org/) därefter
+måste man installera språket på sin egen dator
+från [https://golang.org/dl](https://golang.org/dl/)
 
 ## Dag 1
 
 *(3 timmar)*
 
-Vi går igenom programmering generellt, vad det innebär och slänger oss direkt in i exemplen.
+Vi går igenom programmering generellt, vad det innebär och slänger oss
+direkt in i exemplen.
 
-- [Exempel 1](./exempel/1/README.md#exempel-1) - Ditt första program
-- [Exempel 2](./exempel/2/README.md#exempel-2) - Använda andra paket
-- [Exempel 3](./exempel/3/README.md#exempel-3) - Funktioner och argument
-- [Exempel 4](./exempel/4/README.md#exempel-4) - Variabler och operatorer
-- [Exempel 5](./exempel/5/README.md#exempel-5) - Felsökning, kompilatorn är din vän
-- [Exempel 6](./exempel/6/README.md#exempel-6) - Datatyper, siffror och sant eller falskt
-- [Exempel 7](./exempel/7/README.md#exempel-7) - Nyckelorden `if` och `else`
-- [Exempel 8](./exempel/8/README.md#exempel-8) - Uttryck och operatorer
-- [Exempel 9](./exempel/9/README.md#exempel-9) - Funktioner med returvärden
+- [Exempel 1](./exempel/01/README.md#exempel-1) - Ditt första program
+- [Exempel 2](./exempel/02/README.md#exempel-2) - Använda andra paket
+- [Exempel 3](./exempel/03/README.md#exempel-3) - Funktioner och argument
+- [Exempel 4](./exempel/04/README.md#exempel-4) - Variabler och operatorer
+- [Exempel 5](./exempel/05/README.md#exempel-5) - Felsökning, kompilatorn är din vän
+- [Exempel 6](./exempel/06/README.md#exempel-6) - Datatyper, siffror och sant eller falskt
+- [Exempel 7](./exempel/07/README.md#exempel-7) - Nyckelorden `if` och `else`
+- [Exempel 8](./exempel/08/README.md#exempel-8) - Uttryck och operatorer
+- [Exempel 9](./exempel/09/README.md#exempel-9) - Funktioner med returvärden
 
 ## Dag 2
 
