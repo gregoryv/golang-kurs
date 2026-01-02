@@ -1,3 +1,5 @@
+ARKIVERAD! Flyttad till https://sogvin.com/golang-kurs
+
 # Programmeringskurs för nybörjare
 
 För exempel 1-11 går det bra att
